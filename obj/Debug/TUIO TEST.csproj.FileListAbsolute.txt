@@ -1,0 +1,10 @@
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO TEST.csproj.AssemblyReference.cache
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO_TEST.Properties.Resources.resources
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO TEST.csproj.GenerateResource.cache
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO TEST.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\bin\Debug\TUIO TEST.exe.config
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\bin\Debug\TUIO TEST.exe
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\bin\Debug\TUIO TEST.pdb
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO TEST.exe
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO TEST.pdb
+C:\Users\GAMING\source\repos\TUIO TEST\TUIO TEST\obj\Debug\TUIO_TEST.Form1.resources
